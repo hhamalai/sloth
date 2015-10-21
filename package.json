@@ -1,0 +1,24 @@
+{
+  "name": "sloth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhamalai/sloth.git"
+  },
+  "author": "Harri Hämäläinen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hhamalai/sloth/issues"
+  },
+  "homepage": "https://github.com/hhamalai/sloth#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "temporal": "^0.4.1"
+  }
+}
